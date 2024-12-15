@@ -76,7 +76,7 @@
 ## Задание 2
 ### С помощью скрипта на языке Python заполните google-таблицу данными, описывающими выбранную игровую переменную в игре “СПАСТИ РТФ:Выживание”.
 
-- ссылка на гугл таблицу 
+- Cсылка на гугл таблицу 
 https://docs.google.com/spreadsheets/d/13YQN8yLHY7fpjZu7VQ_ddd575LBQKHggo4T-l3-M_O8/edit?gid=0#gid=0
 ```py
 import gspread
